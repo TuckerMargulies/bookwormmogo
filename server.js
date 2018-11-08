@@ -30,7 +30,7 @@ db.on('open', function (){
   })
 })
 
-////Set db connection errors. Dont forget to install mongodb and run mongo in a terminal window. Just type mongo. /////
+////Set db connection errors. Dont forget to install mongodb and run mongo in a terminal window. Just type mongo /////
 db.on("error", console.error.bind(console, "databse connection error: "));
 
 //// set middlware ////
