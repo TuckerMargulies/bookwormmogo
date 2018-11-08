@@ -1,4 +1,3 @@
-/// next step https://www.npmjs.com/package/scandit-sdk ////
 
 
 var express           = require ('express'),

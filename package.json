@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.36"
+    "mongodb": "^2.2.36",
+    "scandit-sdk": "^3.2.0"
   }
 }

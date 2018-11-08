@@ -1,3 +1,6 @@
+/// next step https://www.npmjs.com/package/scandit-sdk ////
+
+
 var express       = require ('express'),
     Server        = express (),
     bodyParser    = require ('body-parser'),
